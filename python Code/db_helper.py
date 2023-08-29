@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Aug 28 09:03:53 2023
-
 @author: didri
 """
 import mysql.connector
